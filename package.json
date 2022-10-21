@@ -1,0 +1,25 @@
+{
+  "name": "subh_public_school",
+  "version": "1.0.0",
+  "description": "Mongodb Prject on School Learner and their Course",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubham-Manjhi-BY/Subh_Public_School.git"
+  },
+  "author": "Shubham Manjhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubham-Manjhi-BY/Subh_Public_School/issues"
+  },
+  "homepage": "https://github.com/Shubham-Manjhi-BY/Subh_Public_School#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.6.6",
+    "nodemon": "^2.0.20"
+  }
+}
